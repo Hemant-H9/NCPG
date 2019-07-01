@@ -151,7 +151,6 @@ please refer to our Contribution Guide [here](./CONTRIBUTING.md)
       <sub><b>Hemanta Pokharel</b></sub></a>
       <br />
     </td>
-    
------------
+
 
 
